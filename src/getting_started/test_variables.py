@@ -42,10 +42,7 @@ Python 变量命名规则：
 
 
 def test_variables():
-    """Test variables
 
-    测试变量
-    """
 
     integer_variable = 5
     string_variable = 'John'
